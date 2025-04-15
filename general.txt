@@ -1,0 +1,120 @@
+Q1: Who invented the lightbulb?
+   A. Nikola Tesla
+   B. Thomas Edison
+   C. Alexander Graham Bell
+   D. Isaac Newton
+
+Q2: Which is the largest planet in our Solar System?
+   A. Earth
+   B. Mars
+   C. Saturn
+   D. Jupiter
+
+Q3: In which year did World War II end?
+   A. 1940
+   B. 1945
+   C. 1939
+   D. 1950
+
+Q4: Which country is known as the 'Land of the Rising Sun'?
+   A. China
+   B. India
+   C. Japan
+   D. South Korea
+
+Q5: What is the smallest prime number?
+   A. 0
+   B. 1
+   C. 2
+   D. 3
+
+Q6: What does the 'HTTP' in a website address stand for?
+   A. HyperText Transfer Protocol
+   B. High Tech Transfer Process
+   C. HyperType Tagging Protocol
+   D. Hosting and Transfer Protocol
+
+Q7: Which gas do plants absorb from the atmosphere?
+   A. Oxygen
+   B. Nitrogen
+   C. Carbon Dioxide
+   D. Helium
+
+Q8: What is the hardest natural substance on Earth?
+   A. Steel
+   B. Diamond
+   C. Iron
+   D. Quartz
+
+Q9: What is the national currency of Japan?
+   A. Won
+   B. Yen
+   C. Ringgit
+   D. Yuan
+
+Q10: What is the tallest mountain in the world?
+   A. Mount Kilimanjaro
+   B. Mount Fuji
+   C. Mount Everest
+   D. K2
+
+Q11: Which planet is known as the 'Red Planet'?
+   A. Venus
+   B. Mars
+   C. Jupiter
+   D. Mercury
+
+Q12: What is the largest ocean in the world?
+   A. Atlantic Ocean
+   B. Indian Ocean
+   C. Pacific Ocean
+   D. Arctic Ocean
+
+Q13: How many bones are there in the adult human body?
+   A. 206
+   B. 201
+   C. 210
+   D. 190
+
+Q14: Who is known as the 'Father of Computers'?
+   A. Charles Babbage
+   B. Alan Turing
+   C. Steve Jobs
+   D. Bill Gates
+
+Q15: What is the capital of France?
+   A. Rome
+   B. Madrid
+   C. Paris
+   D. Berlin
+
+Q16: Which animal is known as the 'Ship of the Desert'?
+   A. Horse
+   B. Donkey
+   C. Camel
+   D. Elephant
+
+Q17: How many sides does a hexagon have?
+   A. 5
+   B. 6
+   C. 7
+   D. 8
+
+Q18: Which instrument is used to measure temperature?
+   A. Barometer
+   B. Thermometer
+   C. Hygrometer
+   D. Anemometer
+
+Q19: What is the process by which plants make their food?
+   A. Digestion
+   B. Transpiration
+   C. Photosynthesis
+   D. Respiration
+
+Q20: Which part of the computer is considered the brain?
+   A. Monitor
+   B. Keyboard
+   C. CPU
+   D. Hard Drive
+
